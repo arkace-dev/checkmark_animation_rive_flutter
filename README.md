@@ -34,6 +34,10 @@ Success Check animated in Rive & developed using flutter.
 -  Dribbble: [Arkace](https://dribbble.com/arkace-dev)
 -  Rive: [Arkace](https://rive.app/a/Arkace/files/recent/all)
 
+## Video
+
+-  [Success Check](https://i.imgur.com/v4qLOFs.mp4)
+
 ## MIT LICENSE
 
 > Copyright (c) 2020 Arkace
